@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  background: #ffffff;
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
